@@ -1,0 +1,27 @@
+{
+  "name": "emailApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "exceljs": "^4.2.0",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-ejs": "^4.3.0",
+    "koa-router": "^10.0.0",
+    "mongoose": "^5.11.8",
+    "nodemailer": "^6.4.17",
+    "path": "^0.12.7",
+    "xlsx": "^0.16.9",
+    "xlsx-color": "^0.14.30",
+    "xlsx-style": "^0.8.13"
+  }
+}
